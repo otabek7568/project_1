@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.container img{
+    width: 200px;
+    height: auto;
+}
+
+.info .container{
+    background-color: whitesmoke;
+}
